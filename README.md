@@ -32,6 +32,8 @@ To run this project, you will need to download the following :
 
 `libraries : mentioned in requirements.txt`
 
+`Similarity.pkl file is given in release`
+
 
 ## Task:
 - Import Required library
