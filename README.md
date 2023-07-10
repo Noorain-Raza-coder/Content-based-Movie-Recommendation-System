@@ -17,7 +17,7 @@ When the movie recommender system was not designed before that users manually se
 ## Solution:
 Design a system that shows more similar movies to searched movie.
 ## Objective:
-To design a system (website) that takes user input(movie name) and will recommend five similar movies related to the input movie based on the features like:( cast, crew ,genres etc.) using cosine similar method.
+To design a system (webpage) that takes user input(movie name) and recommends five similar movies based on the features like:( cast, crew ,genres) using cosine similarity method.
 ## Requirements:
 
 To run this project, you will need to download the following :
